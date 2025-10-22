@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Env files
+.env
+
+# Airflow local files
+airflow/airflow.db
+airflow/logs/
+
+# VS Code
+.vscode/
